@@ -13,3 +13,17 @@ npm install
 
 npm run start
 ```
+
+## Current Output
+Currently, the output is as follows:
+### Webpack 3 sample
+
+Expected output: 1 2
+
+Actual Output: 1 2
+
+### Webpack 4 sample
+
+Expected output: 1 2
+
+Actual Output: 1 1
