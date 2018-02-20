@@ -10,5 +10,6 @@ There is a directory for both Webpack3 and Webpack4 which show the old and new (
 To view the output, from either directory run:
 ```
 npm install
+
 npm run start
 ```
